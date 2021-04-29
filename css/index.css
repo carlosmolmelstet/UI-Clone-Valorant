@@ -87,7 +87,7 @@ header .wrapper-menu .logos .logoAnimation {
   width: 160px;
   height: 160px;
   margin-left: -23px;
-  background: url("../Images/RiotLogoAnimation.png") 0 -2400px no-repeat;
+  background: url("../images/RiotLogoAnimation.png") 0 -2400px no-repeat;
   -webkit-transition: background-position 0.25s steps(15, end);
   transition: background-position 0.25s steps(15, end);
   -webkit-transform: scale(0.33);
@@ -95,7 +95,7 @@ header .wrapper-menu .logos .logoAnimation {
 }
 
 header .wrapper-menu .logos .logoAnimation:hover {
-  background: url("../Images/RiotLogoAnimation.png") 0 0px no-repeat;
+  background: url("../images/RiotLogoAnimation.png") 0 0px no-repeat;
 }
 
 header .wrapper-menu .logos .arrowLogo {
@@ -280,7 +280,7 @@ header .playNow .btn-playNow {
 .weAreValorant {
   position: absolute;
   top: 880px;
-  background-image: url(../Images/weAreValorant.png);
+  background-image: url(../images/weAreValorant.png);
   background-repeat: no-repeat;
   background-size: 90%;
   background-position-x: right;
@@ -572,7 +572,7 @@ header .playNow .btn-playNow {
   top: -52px;
   width: 18vw;
   height: 54px;
-  background-image: url("../Images/Polygon.svg");
+  background-image: url("../images/Polygon.svg");
 }
 
 .wrapper-agents img {
@@ -585,7 +585,7 @@ header .playNow .btn-playNow {
 .wrapper-agents .descriptionAgests {
   width: 100%;
   height: 890px;
-  background-image: url("../Images/agents/agents-background-eb7bdcf6098abe206e45225d09519000.jpg");
+  background-image: url("../images/agents/agents-background-eb7bdcf6098abe206e45225d09519000.jpg");
 }
 
 .wrapper-agents .descriptionAgests h3 {
@@ -629,7 +629,7 @@ header .playNow .btn-playNow {
 }
 
 .wrapper-maps {
-  background-image: url("../Images/map-split.png");
+  background-image: url("../images/map-split.png");
   background-repeat: no-repeat;
   background-position: right;
   width: 100%;
